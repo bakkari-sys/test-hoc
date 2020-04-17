@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.movies {
+  
+    border: 43px solid black;
+
+}
+
+img {
+  height: 312px;
+  width: 474px;
+  margin-bottom: 15px;
+}
+h1 {
+  color: red;
+  font-family: cursive;
+}
